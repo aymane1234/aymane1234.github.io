@@ -1,6 +1,6 @@
 ## Portfolio
 
-my name is Aymane Amine and I am completing a Msc degree in stochastics and dynamical systems at the university of Vienna, where I have already finished a bachelor degree with a thesis titled “Distribution, Fourier transform and the Wave equation”. I expect to be finished this upcoming January. During my studies, I developed an immense interest in Analysis, Geometry, Probability theory as well as PDEs.  In my master thesis under supervision of Julio Backhoff and Abdol-Reza Mansouri from Queens university. I am investigating problems at the intersection of the fields of (Continuous Martingale) optimal transport, Geometry and Stochastic Analysis.
+my name is Aymane Amine.
 
 You can contact me at aymane1000@live.fr
 
