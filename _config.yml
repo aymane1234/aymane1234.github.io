@@ -1,10 +1,10 @@
 title: Aymane Amine Bsc # your name (or website title) here
 logo: "/images/index.png?raw=true" # your photo (or logo) here
-description: > # Mathematics master student at the university of Vienna 
-  First description 
+description: > # 
+  Master student at the university of Vienna    <br><br>
+  Stochastics and dynamical systems
   <br><br>
-  Second description 
-  <br><br>
+  Interests: Optimal transport, Geometry, Stochastic analysis and Machine learning
   <a href="https://www.linkedin.com/in/aymane-amine-8b5b03148/">View My LinkedIn Profile</a> 
   
 theme: jekyll-theme-minimal
