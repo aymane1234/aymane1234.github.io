@@ -1,13 +1,6 @@
 ## Portfolio
 
-I am a PhD student at the Center for Data Science at NYU and a DeepMind fellow, advised by Professor Andrew Gordon Wilson. I am currently interested in designing robust models that can generalize well in and out of distribution. I also work on the closely related question of understanding and quantifying the generalization properties of deep neural networks. More broadly, my research interests include probabilistic modeling, Bayesian learning, large-scale optimization, and loss surface analysis.
-
-Prior to NYU, I obtained a master’s degree in applied mathematics from Polytechnique Montreal. I was fortunate to work there with Professors Andrea Lodi and Dominique Orban to design stochastic first- and second-order algorithms with compelling theoretical and empirical properties for machine learning and large-scale optimization. I received the Best Master's Thesis Award in Applied Mathematics for this work.
-
-I also hold an engineering degree in general engineering and applied mathematics from CentraleSupélec.
-
-In summer 2022, I am excited to work with Bernie Wang and Richard Kurle at Amazon as an Applied Scientist Intern.
-
+my name is Aymane Amine and I am completing a Msc degree in stochastics and dynamical systems at the university of Vienna, where I have already finished a bachelor degree with a thesis titled “Distribution, Fourier transform and the Wave equation” under the supervision of Professor Roland Donninger. I expect to be finished this upcoming January. During my studies, I developed an immense interest in Analysis, Geometry, Probability theory as well as PDE´s.  In my master thesis under supervision of Julio Backhoff and Abdol-Reza Mansouri from Queens university. I am investigating problems at the intersection of the fields of (Continuous Martingale) optimal transport, Geometry and Stochastic Analysis. 
 You can contact me at sl8160@nyu.edu
 
 CV, Google Scholar, LinkedIn, Twitter, Github
