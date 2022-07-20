@@ -1,8 +1,8 @@
-## Portfolio
+## Research interest:
 
-my name is Aymane Amine.
+My research focus consists of investigating problems at the intersection of the fields of Martingale optimal transport, Geometry and Stochastic Analysis. More specifically, I am looking at ways of framing certain Martingale optimal transport problems using tools from Riemannian geometry.
 
-You can contact me at aymane1000@live.fr
+Email: aymane1000@live.fr
 
 
 ### Category Name 1 
